@@ -1,5 +1,4 @@
 # counting 
-from tkinter import *
 #asking a question
 
 question = input("Please input any text ")
